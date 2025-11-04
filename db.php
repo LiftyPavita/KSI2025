@@ -3,7 +3,7 @@
 $DB_HOST = "localhost";
 $DB_USER = "root";        // ubah sesuai user MySQL kamu
 $DB_PASS = "";            // ubah jika pakai password
-$DB_NAME = "ksi2025";     // <--- nama database diupdate di sini
+$DB_NAME = "ksi2025";     // ✅ nama database sudah diperbarui
 
 $mysqli = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 
